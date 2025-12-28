@@ -10,22 +10,22 @@
 
 ```typescript
 const saadman = {
-    role: "MERN Stack Developer",
-    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue.js"],
-            css: ["Tailwind"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js"],
-            database: ["MongoDB"]
-        },
-        devOps: ["Docker", "Git"],
-        tools: ["VS Code", "Postman"]
+  role: "MERN Stack Developer",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Vue.js"],
+      css: ["Tailwind"],
     },
-    background: "Computer Science & Engineering",
-    focus: "Building scalable and responsive web applications"
+    backEnd: {
+      js: ["Node.js", "Express.js"],
+      database: ["MongoDB"],
+    },
+    devOps: ["Docker", "Git"],
+    tools: ["VS Code", "Postman"],
+  },
+  background: "Computer Science & Engineering",
+  focus: "Building scalable and responsive web applications",
 };
 ```
 
@@ -37,12 +37,12 @@ const saadman = {
 
 ### 💻 Core Stack
 
-| Technology | Description |
-|:----------:|-------------|
-| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | Database management and design |
-| ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | Server-side framework and API development |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | Front-end development and component architecture |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | Server-side JavaScript runtime |
+|                                                   Technology                                                   | Description                                      |
+| :------------------------------------------------------------------------------------------------------------: | ------------------------------------------------ |
+|    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)    | Database management and design                   |
+| ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | Server-side framework and API development        |
+|       ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)       | Front-end development and component architecture |
+|   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)   | Server-side JavaScript runtime                   |
 
 ### 🔧 Tools & Technologies
 
